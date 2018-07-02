@@ -45,7 +45,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 88
+  controlID: 63
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -209,7 +209,7 @@ MonoBehaviour:
   m_MinSize: {x: 404, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 89
+  controlID: 64
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -233,7 +233,7 @@ MonoBehaviour:
   m_MinSize: {x: 404, y: 221}
   m_MaxSize: {x: 8004, y: 4021}
   vertical: 0
-  controlID: 90
+  controlID: 65
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -323,20 +323,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/scripts
+    - Assets/Materials
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/scripts
+  - Assets/Materials
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: /Users/teraidaiki/Library/Mobile Documents/com~apple~CloudDocs/FightUnity/DotInstall
+  m_LastProjectPath: /Users/teraidaiki/Library/Mobile Documents/com~apple~CloudDocs/FightUnity/BallGo1
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 602f0000
-    m_LastClickedID: 12128
-    m_ExpandedIDs: 000000008e2b00009c2e000000ca9a3bffffff7f
+    m_SelectedIDs: b6300000
+    m_LastClickedID: 12470
+    m_ExpandedIDs: 00000000982b0000a62e000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -364,7 +364,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000008e2b00009c2e0000
+    m_ExpandedIDs: 00000000982b0000a62e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -418,7 +418,7 @@ MonoBehaviour:
     m_NewAssetIndexInList: -1
     m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 64
-  m_DirectoriesAreaWidth: 115
+  m_DirectoriesAreaWidth: 208
 --- !u!114 &14
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -482,7 +482,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: aadbfcff38dcfcffaedcfcff68defcff78e1fcff06e2fcff7ce2fcff36e4fcff9257fdff2058fdff9658fdff505afdffe0faffff50fbffffe2fbffffe4fbffff00000000
+    m_ExpandedIDs: deacfcff6cadfcffe2adfcff9aaffcffb4b2fcff44b3fcffbcb3fcff74b5fcff98b8fcff26b9fcffc2b9fcff7abbfcffe8d4fcff76d5fcffecd5fcffa4d7fcff0421feff9821feff1422feffcc23feff062bfeff9a2bfeff162cfeffce2dfeffd4a1ffff68a2ffffe4a2ffffa0a4ffff5eacffffa2acffff12adffffcaaeffffced5ffff56d6ffffc6d6ffff82d8ffff96dfffff24e0ffff9ce0ffff58e2ffffe4fbffff0000000090720000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -532,14 +532,14 @@ MonoBehaviour:
     height: 514
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
-  lastFramingTime: 4402.7356770038605
+  lastFramingTime: 5913.645532011986
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 2.6997046, y: 4.82616, z: 2.822874}
+    m_Target: {x: 2.7112386, y: 2.4541483, z: 5.253951}
     speed: 2
-    m_Value: {x: 2.6997046, y: 4.82616, z: 2.822874}
+    m_Value: {x: 2.7112386, y: 2.4541483, z: 5.253951}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -567,13 +567,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.015933873, y: 0.8751811, z: -0.48266935, w: -0.02889147}
+    m_Target: {x: -0.067429475, y: 0.9093356, z: -0.3769806, w: -0.16265617}
     speed: 2
-    m_Value: {x: -0.015933871, y: 0.87518096, z: -0.4826693, w: -0.028891467}
+    m_Value: {x: -0.06742916, y: 0.9093314, z: -0.37697884, w: -0.16265541}
   m_Size:
-    m_Target: 13.572153
+    m_Target: 8.169181
     speed: 2
-    m_Value: 13.572153
+    m_Value: 8.169181
   m_Ortho:
     m_Target: 0
     speed: 2

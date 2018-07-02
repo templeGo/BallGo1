@@ -18,7 +18,7 @@ public class BallBoxScript : MonoBehaviour {
     void Update()
     {
         
-            if (Time.frameCount % 250 == 0f)
+            if (Time.frameCount % 220 == 0f)
             {
                 Instantiate(Ball, (new Vector3(Random.Range(-2.0f, 2.0f), 10f, Random.Range(-2.0f, 2.0f))), transform.rotation);
             }
